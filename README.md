@@ -5,19 +5,19 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 e that focuses on the systematic design, development, testing, and maintenance of software applications. It involves applying engineering principles to software development to ensure that the software is reliable, efficient, and meets the needs of users. It involves the design, development, testing, deployment, and maintenance of software products.
- Software engineering plays a crucial role in the technology industry by enabling the creation of reliable, scalable, and innovative software solutions in a cost effective manner that meet user needs 
+ Software engineering plays a crucial role in the technology industry by enabling the creation of reliable, scalable, and innovative software solutions in a cost effective manner that meet user needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The evolution of software engineering has been marked by several key milestones that have significantly shaped the field firstly the introduction of software engineering as a discipline in the 60's in a NATO conference in Germany which brought together computer scientists and engineers to solve a problem of timely software delivery and cost. this lead to utilization of engineering principles making it more structured leading to more complex and quality software
+The evolution of software engineering has been marked by several key milestones that have significantly shaped the field firstly the introduction of software engineering as a discipline in the 60's in a NATO conference in Germany which brought together computer scientists and engineers to solve a problem of timely software delivery and cost. this lead to utilization of engineering principles making it more structured leading to more complex and quality software.
 In 1970, Dr. Winston W. Royce presented the Waterfall Model in his paper "Managing the Development of Large Software Systems. The model represents a linear and sequential approach where each phase (requirements analysis, system design, implementation, integration, testing, deployment, and maintenance) follows the previous one. This model provided a clear framework for managing the software development lifecycle, though it later became apparent that its rigidity made it less suitable for projects where requirements could change frequently.
- In 2001, a group of software developers and thought leaders published the Agile Manifesto, which outlined a set of values and principles for Agile software development. The Agile Manifesto emphasized flexibility, collaboration, and customer feedback, contrasting with the rigid, plan-driven approaches of earlier methodologies like Waterfall
+ In 2001, a group of software developers and thought leaders published the Agile Manifesto, which outlined a set of values and principles for Agile software development. The Agile Manifesto emphasized flexibility, collaboration, and customer feedback, contrasting with the rigid, plan-driven approaches of earlier methodologies like Waterfall.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements. This involves gathering user needs and system requirements
+Requirements. This involves gathering user needs and system requirements.
 Implementation. This entails writting code and building software acording to design and specifications.
 Testing. This is involves undertaking various tests to ensure that the software meets the quality starndards and functional requirements.
-Deployment. This is the rolling out of the software to clients
+Deployment. This is the rolling out of the software to clients.
 Maintainace. It entails support,enhancements and updates made to the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
