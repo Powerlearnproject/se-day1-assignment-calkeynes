@@ -26,13 +26,13 @@ Linear and Sequential: Waterfall follows a linear, step-by-step process. Each ph
 Waterfall typically includes Requirements Gathering, Design, Implementation, Testing, Deployment, and Maintenance while Agile methodology emphasizes ongoing collaboration, customer feedback, and flexible responses to change. Key frameworks include Scrum, Kanban, and Extreme Programming (XP). 
 Waterfall methodology has heavy emphasis on documentation at each stage, detailed requirements and design documents are created before moving forward while Agile mthodology has less emphasis on comprehensive documentation, it prioritizes working software and adaptive planning.
 In waterfall methodology, changes are difficult to implement once the project is underway hence the methodology is less flexible while Agile methology is highly flexible, allowing for frequent changes and updates based on feedback.
-Waterfall metodology would be appropriate for projects with well-defined requirements and a clear, linear path. It excels in environments requiring rigorous documentation and regulatory compliance for example  developing a government compliance reporting system where the requirements are strictly defined and unlikely to change
+Waterfall metodology would be appropriate for projects with well-defined requirements and a clear, linear path. It excels in environments requiring rigorous documentation and regulatory compliance for example  developing a government compliance reporting system where the requirements are strictly defined and unlikely to change.
 On the other hand Agile methodology is ideal for projects with evolving requirements, where flexibility and iterative progress are beneficial. It suits dynamic environments and projects that benefit from regular feedback and continuous improvement. For example Developing a new e-commerce platform where user preferences and market trends are likely to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software developer is rensponsible for writting codes and implementing software solutions
-quality assuarance Engineer ensures software quality by designing and executing test plans
-Project manager oversees planning execution and delivery of software products
+Software developer is rensponsible for writting codes and implementing software solutions.
+quality assuarance Engineer ensures software quality by designing and executing test plans.
+Project manager oversees planning execution and delivery of software products.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. 
 IDES provide comprehensive tools for writing, debugging, and testing code for example, Visual Studio and Eclipse
